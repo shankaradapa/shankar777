@@ -1,2 +1,7 @@
 install git 
+
 install python
+
+
+install git
+install maven
